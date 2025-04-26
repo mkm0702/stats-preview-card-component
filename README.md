@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [stats-preview-card](https://your-solution-url.com)
-- Live Site URL: [stats-preview-card](https://your-live-site-url.com)
+- Solution URL: [stats-preview-card](https://github.com/mkm0702/stats-preview-card-component)
+- Live Site URL: [stats-preview-card](https://stats-preview-card-compnent.netlify.app)
 
 
 ### Built with
